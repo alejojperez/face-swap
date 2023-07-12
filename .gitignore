@@ -1,0 +1,15 @@
+.DS_Store
+models
+bin
+include
+insightface
+job__*
+lib
+share
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.onnx
+*.zip
+pyvenv.cfg
