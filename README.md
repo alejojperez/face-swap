@@ -13,6 +13,8 @@ source ./bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
+- Go to this google drive link and dowload to the porjects root folder the file "inswapper_128.onnx"
+https://drive.google.com/drive/folders/1luanq28v1k6l3sHj24jQbl4UvY_zOWwP?usp=sharing
 
 # Usage
 
